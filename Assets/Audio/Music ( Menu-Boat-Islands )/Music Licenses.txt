@@ -1,0 +1,42 @@
+Islands1, Islands2:
+Cozy Farm Days — FREE GAME MUSIC LICENSE
+Version 1.0 | 2026 | Publisher: UIT GAMES
+1. FREE DOWNLOAD AND LICENSE GRANT
+You may download and use the supplied music without payment. A donation is optional and does not change the permitted uses. UIT GAMES grants the downloading individual or organization a non-exclusive, worldwide, perpetual license, to the extent of the rights UIT GAMES controls, for the uses below. This is a custom asset license, not CC0 or an exclusive rights transfer.
+2. PERMITTED USES
+Use the full tracks and loop edits in any number of your own commercial or non-commercial games, apps, films, videos, trailers, podcasts, streams and other audiovisual projects, including monetized projects. No further royalties are payable to UIT GAMES. You may trim, fade, loop, mix and convert the files to fit those projects. You may distribute the music embedded in finished projects and related promotional materials. Gameplay videos and livestreams featuring a licensed game are permitted.
+You may share the files with team members and contractors as needed to work on your licensed projects. They must follow these terms. For independent reuse, they can download their own free copy from UIT GAMES.
+3. CREDIT
+Credit is appreciated but not required. Suggested credit:
+Music: Cozy Farm Days by UIT GAMES
+https://uit-games.itch.io/
+4. RESTRICTIONS
+Do not resell, redistribute, give away or sublicense the source music or substantially equivalent edits as standalone files, stock music, templates or asset libraries. Link to the original UIT GAMES download page instead. Reasonable packaging measures should be used to avoid presenting the music in a finished project as a reusable asset library.
+Standalone music releases, soundtrack albums, music-only listening uploads and redistribution as your own music catalog are not included. Background use within the projects permitted above is allowed.
+Do not register these tracks, loops or edits retaining the supplied music with YouTube Content ID or similar automated rights-claim or audio-fingerprinting systems. Do not claim exclusive ownership or original authorship. Do not use the assets to train or power generative AI models.
+Embedded cover artwork may be displayed to identify this music in permitted uses; it is not provided as a standalone illustration asset library.
+5. ORIGIN AND LIMITS
+Music was generated with Suno, selected and processed into the supplied full and loop versions. Cover artwork was generated with OpenAI ImageGen. This license grants permission only to the extent of rights controlled by UIT GAMES. It does not guarantee copyright registration, exclusivity or uniqueness of AI-generated output.
+UIT GAMES does not enroll this pack in YouTube Content ID. Unrelated parties or automated systems may still make erroneous claims.
+6. SUPPORT
+Contact UIT GAMES through the itch.io profile or the project comments:
+https://uit-games.itch.io/
+Assets are supplied as-is to the extent permitted by law. Nothing in this license limits mandatory rights under applicable law.
+
+
+Menu1:
+Creative Commons Attribution 4.0 International (CC BY 4.0) You are free to: Share & Adapt, under the following terms: Attribution & No additional restrictions https://creativecommons.org/licenses/by/4.0/
+https://fan-zoo.itch.io/adventure-music-pack
+
+Boat3:
+"Windswept"
+Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0
+http://creativecommons.org/licenses/by/4.0/
+
+
+Islands3:
+"Morning"
+Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0
+http://creativecommons.org/licenses/by/4.0/
