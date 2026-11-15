@@ -1,0 +1,146 @@
+{
+  "regular_items_32x32": [
+    "anchor",
+    "anchor_small",
+    "barrel",
+    "barrel_48",
+    "blue_fish_01",
+    "blue_fish_02",
+    "blue_lantern",
+    "boat_upgrade_scroll",
+    "bottle",
+    "buoy",
+    "buoy_58",
+    "compass",
+    "conch",
+    "crab",
+    "crystal_shard",
+    "equipment_upgrade_scroll",
+    "fish_crate",
+    "fish_crate_52",
+    "fish_crate_53",
+    "fish_sack",
+    "fishing_rod_pro",
+    "gear",
+    "gear_46",
+    "jellyfish",
+    "key",
+    "lantern",
+    "lantern_12",
+    "lantern_55",
+    "lifebuoy",
+    "locked_crate",
+    "map",
+    "metal_ingot",
+    "motor_upgrade_scroll",
+    "open_shell",
+    "orange_fish",
+    "pearl",
+    "pearl_clam",
+    "pufferfish",
+    "purple_coral",
+    "red_coral",
+    "red_coral_branch",
+    "rope",
+    "scroll",
+    "sea_cookie",
+    "sea_urchin",
+    "sea_urchin_39",
+    "seahorse",
+    "sealed_letter",
+    "seaweed",
+    "seaweed_60",
+    "seaweed_bundle",
+    "shell",
+    "signpost",
+    "spiral_shell",
+    "squid",
+    "starfish",
+    "storage_upgrade_scroll",
+    "striped_fish",
+    "supply_barrel",
+    "tool_bag",
+    "treasure_chest",
+    "wood_planks",
+    "wooden_crate",
+    "worm"
+  ],
+  "larger_assets": [
+    {
+      "name": "boat_large_01",
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "name": "boat_large_02",
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "name": "boat_large_03",
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "name": "boat_large_06",
+      "size": [
+        96,
+        64
+      ]
+    },
+    {
+      "name": "fishing_rod_advanced",
+      "size": [
+        64,
+        32
+      ]
+    },
+    {
+      "name": "fishing_rod_basic",
+      "size": [
+        64,
+        32
+      ]
+    },
+    {
+      "name": "fishing_rod_reinforced",
+      "size": [
+        64,
+        32
+      ]
+    },
+    {
+      "name": "motor_large_04",
+      "size": [
+        32,
+        64
+      ]
+    },
+    {
+      "name": "motor_large_05",
+      "size": [
+        32,
+        64
+      ]
+    },
+    {
+      "name": "motor_large_07",
+      "size": [
+        32,
+        64
+      ]
+    }
+  ],
+  "notes": [
+    "All regular inventory icons are exactly 32x32 px with transparent backgrounds.",
+    "Larger boats and fishing rods use dimensions that are multiples of 32 px.",
+    "The atlases are transparent PNGs; the contact sheet is only a labeled preview.",
+    "Assets were extracted and nearest-neighbor scaled from the concept sheet; inspect details in Aseprite before final integration."
+  ]
+}
