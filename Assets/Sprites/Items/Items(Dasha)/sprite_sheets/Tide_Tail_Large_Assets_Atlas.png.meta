@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: b648bb8eae0d75041a431b1f223e25b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4534254539119953335
+    second: Tide_Tail_Large_Assets_Atlas_0
+  - first:
+      213: -1324758484117199489
+    second: Tide_Tail_Large_Assets_Atlas_1
+  - first:
+      213: -1605970092394444922
+    second: Tide_Tail_Large_Assets_Atlas_2
+  - first:
+      213: 7397974114551698660
+    second: Tide_Tail_Large_Assets_Atlas_3
+  - first:
+      213: -270981110475753338
+    second: Tide_Tail_Large_Assets_Atlas_4
+  - first:
+      213: 4608148318838705985
+    second: Tide_Tail_Large_Assets_Atlas_5
+  - first:
+      213: -6514537664596168069
+    second: Tide_Tail_Large_Assets_Atlas_6
+  - first:
+      213: -6324683781411732662
+    second: Tide_Tail_Large_Assets_Atlas_7
+  - first:
+      213: 2491199224388059782
+    second: Tide_Tail_Large_Assets_Atlas_8
+  - first:
+      213: 8932297743281792962
+    second: Tide_Tail_Large_Assets_Atlas_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tide_Tail_Large_Assets_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 175
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b58275da78ecee30800000000000000
+      internalID: 4534254539119953335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tide_Tail_Large_Assets_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 172
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7562057d238d9de0800000000000000
+      internalID: -1324758484117199489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tide_Tail_Large_Assets_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 180
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6878de2b5b276b9e0800000000000000
+      internalID: -1605970092394444922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tide_Tail_Large_Assets_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 175
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e49363d242eaa660800000000000000
+      internalID: 7397974114551698660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tide_Tail_Large_Assets_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 105
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6887041ad184d3cf0800000000000000
+      internalID: -270981110475753338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tide_Tail_Large_Assets_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 105
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fc1b02b7e63ff30800000000000000
+      internalID: 4608148318838705985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tide_Tail_Large_Assets_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 105
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72b7d17286b795a0800000000000000
+      internalID: -6514537664596168069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tide_Tail_Large_Assets_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 102
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4387444c953a38a0800000000000000
+      internalID: -6324683781411732662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tide_Tail_Large_Assets_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 23
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6820162ee74829220800000000000000
+      internalID: 2491199224388059782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tide_Tail_Large_Assets_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 22
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7a550e875e5fb70800000000000000
+      internalID: 8932297743281792962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tide_Tail_Large_Assets_Atlas_0: 4534254539119953335
+      Tide_Tail_Large_Assets_Atlas_1: -1324758484117199489
+      Tide_Tail_Large_Assets_Atlas_2: -1605970092394444922
+      Tide_Tail_Large_Assets_Atlas_3: 7397974114551698660
+      Tide_Tail_Large_Assets_Atlas_4: -270981110475753338
+      Tide_Tail_Large_Assets_Atlas_5: 4608148318838705985
+      Tide_Tail_Large_Assets_Atlas_6: -6514537664596168069
+      Tide_Tail_Large_Assets_Atlas_7: -6324683781411732662
+      Tide_Tail_Large_Assets_Atlas_8: 2491199224388059782
+      Tide_Tail_Large_Assets_Atlas_9: 8932297743281792962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
